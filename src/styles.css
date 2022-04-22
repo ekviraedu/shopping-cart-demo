@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.productImage {
+  font-size: 70px;
+  margin: 2%;
+}
+
+.productImage p {
+  font-size: 20px;
+}
+
+.allProducts {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
